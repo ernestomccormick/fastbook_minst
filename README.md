@@ -1,0 +1,1 @@
+MNIST fastbook exercise.
